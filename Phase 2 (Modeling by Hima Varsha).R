@@ -1,4 +1,4 @@
-##-----------------PHASE 2 - MODELING (VARSHA) -----------
+##-----------------Predictive-modeling.R -----------
 ## DATASET : merged_counties_median_income.xslx
 
 library(readxl)
