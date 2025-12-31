@@ -18,3 +18,18 @@ Multiple predictive models were built and evaluated, including:
 - Neural networks  
 
 ### Models were compared using performance metrics to assess predictive strength and limitations.
+
+## Tools & Techniques
+- R (tidyverse, caret, rpart, nnet)
+- Regression, Decision Trees, Neural Networks
+- Model evaluation and comparison
+
+## Files
+- Predictive-modeling.R – full modeling workflow
+- Predictive-modeling Documentation.pdf – methodology and interpretation
+- Predictive-modeling Outputs/ – figures and model results
+
+## Key Takeaways
+- Labor force variables were the strongest predictors
+- Overall predictive power was limited
+- Highlights challenges in modeling AI exposure with county-level data
